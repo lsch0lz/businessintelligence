@@ -1,0 +1,365 @@
+,pid,model,price,country_code,country,region,income group,scraped_date,model_en,price2,price_local_currency
+1,1,iPhone SE,From A$679,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,iPhone SE,679,679.0
+2,2,iPhone 12,From A$999,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,iPhone 12,999,999.0
+4,4,AirPods Pro,A$399,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,AirPods Pro,399,399.0
+5,5,AirPods(2nd generation),A$219,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,AirPods(2nd generation),219,219.0
+7,7,Apple TV 4K,A$249,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Apple TV 4K,249,249.0
+8,8,Apple Watch SE,From A$429,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Apple Watch SE,429,429.0
+9,9,Apple Watch Series 3,From A$299,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Apple Watch Series 3,299,299.0
+10,10,Sport Band,A$69,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Sport Band,69,69.0
+11,11,iPad,From A$499,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,iPad,499,499.0
+12,12,iPad Pro,"From A$1,199",AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,iPad Pro,"1,199",1199.0
+13,13,Apple Pencil (2nd generation),A$199,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Apple Pencil (2nd generation),199,199.0
+14,14,24-inch iMac²,"From A$1,899",AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,24-inch iMac,"1,899",1899.0
+15,15,MacBook Air,"From A$1,499",AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,MacBook Air,"1,499",1499.0
+16,16,Magic Mouse,A$109,AU,Australia,East Asia & Pacific,High income,2022-01-02 21:52:06.630535,Magic Mouse,109,109.0
+18,1,iPhone SE,Ab 479 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,iPhone SE,479,479.0
+19,2,iPhone 12,Ab 679 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,iPhone 12,679,679.0
+21,4,AirPods Pro,279 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,AirPods Pro,279,279.0
+22,5,AirPods(2. Generation),149 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,AirPods(2nd generation),149,149.0
+25,8,Apple TV 4K,199 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Apple TV 4K,199,199.0
+26,9,Apple Watch SE,Ab 299 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Apple Watch SE,299,299.0
+27,10,Apple Watch Series 3,Ab 219 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Apple Watch Series 3,219,219.0
+28,11,Sportarmband,49 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Sport Band,49,49.0
+29,12,iPad,Ab 379 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,iPad,379,379.0
+30,13,iPad Pro,Ab 879 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,iPad Pro,879,879.0
+31,14,Apple Pencil (2. Generation),135 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Apple Pencil (2nd generation),135,135.0
+32,15,"24"" iMac²",Ab 1.449 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,24-inch iMac,1.449,1449.0
+33,16,MacBook Air,Ab 1.129 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,MacBook Air,1.129,1129.0
+34,17,Magic Mouse,85 €,AT,Austria,Europe & Central Asia,High income,2022-01-02 21:52:07.703491,Magic Mouse,85,85.0
+36,1,iPhone SE,A partir de R$ 3.699,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,iPhone SE,3.699,3699.0
+37,2,iPhone 12,A partir de R$ 5.699,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,iPhone 12,5.699,5699.0
+38,3,AirPods Pro,R$ 2.999,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,AirPods Pro,2.999,2999.0
+39,4,AirPods(2ª geração),R$ 1.649,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,AirPods(2nd generation),1.649,1649.0
+41,6,Apple TV 4K,R$ 2.399,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Apple TV 4K,2.399,2399.0
+42,7,Apple Watch SE,A partir de R$ 3.799,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Apple Watch SE,3.799,3799.0
+43,8,Apple Watch Series 3,A partir de R$ 2.599,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Apple Watch Series 3,2.599,2599.0
+44,9,Pulseira esportiva,R$ 549,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Sport Band,549,549.0
+45,10,iPad,A partir de R$ 3.999,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,iPad,3.999,3999.0
+46,11,iPad Pro,A partir de R$ 10.799,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,iPad Pro,10.799,10799.0
+47,12,Apple Pencil (2ª geração),R$ 1.599,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Apple Pencil (2nd generation),1.599,1599.0
+48,13,iMac de 24 polegadas²,A partir de R$ 17.599,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,24-inch iMac,17.599,17599.0
+49,14,MacBook Air,A partir de R$ 12.999,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,MacBook Air,12.999,12999.0
+50,15,Magic Mouse,R$ 899,BR,Brazil,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:09.264138,Magic Mouse,899,899.0
+52,1,iPhone SE,From $569,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,iPhone SE,569,569.0
+53,2,iPhone 12,From $799,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,iPhone 12,799,799.0
+55,4,AirPods Pro,$329,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,AirPods Pro,329,329.0
+56,5,AirPods(2nd generation),$179,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,AirPods(2nd generation),179,179.0
+58,7,Apple TV 4K,$229,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Apple TV 4K,229,229.0
+59,8,Apple Watch SE,From $369,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Apple Watch SE,369,369.0
+60,9,Apple Watch Series 3,From $249,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Apple Watch Series 3,249,249.0
+61,10,Sport Band,$59,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Sport Band,59,59.0
+62,11,iPad,From $429,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,iPad,429,429.0
+63,12,iPad Pro,From $999,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,iPad Pro,999,999.0
+64,13,Apple Pencil (2nd generation),$169,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Apple Pencil (2nd generation),169,169.0
+65,14,24-inch iMac²,From $1599,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,24-inch iMac,1599,1599.0
+66,15,MacBook Air,From $1299,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,MacBook Air,1299,1299.0
+67,16,Magic Mouse,$89,CA,Canada,North America,High income,2022-01-02 21:52:10.367290,Magic Mouse,89,89.0
+69,1,iPhone SE,Od 11 690 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,iPhone SE,11690,11690.0
+70,2,iPhone 12,Od 16 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,iPhone 12,16990,16990.0
+72,4,AirPods Pro,7 290 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,AirPods Pro,7290,7290.0
+73,5,AirPods(2. generace),3 790 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,AirPods(2nd generation),3790,3790.0
+75,7,Apple TV 4K,4 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Apple TV 4K,4990,4990.0
+76,8,Apple Watch SE,Od 7 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Apple Watch SE,7990,7990.0
+77,9,Apple Watch Series 3,Od 5 490 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Apple Watch Series 3,5490,5490.0
+78,10,Sportovní řemínek,1 290 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Sport Band,1290,1290.0
+79,11,iPad,Od 9 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,iPad,9990,9990.0
+80,12,iPad Pro,Od 22 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,iPad Pro,22990,22990.0
+81,13,Apple Pencil (2. generace),3 490 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Apple Pencil (2nd generation),3490,3490.0
+82,14,24palcový iMac²,Od 37 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,24-inch iMac,37990,37990.0
+83,15,MacBook Air,Od 29 990 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,MacBook Air,29990,29990.0
+84,16,Magic Mouse,2 290 Kč,CZ,Czech Republic,Europe & Central Asia,High income,2022-01-02 21:52:12.701576,Magic Mouse,2290,2290.0
+86,1,iPhone SE,Ab 479 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,iPhone SE,479,479.0
+87,2,iPhone 12,Ab 679 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,iPhone 12,679,679.0
+89,4,AirPods Pro,279 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,AirPods Pro,279,279.0
+90,5,AirPods(2. Generation),149 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,AirPods(2nd generation),149,149.0
+92,7,Apple TV 4K,199 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Apple TV 4K,199,199.0
+93,8,Apple Watch SE,Ab 299 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Apple Watch SE,299,299.0
+94,9,Apple Watch Series 3,Ab 219 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Apple Watch Series 3,219,219.0
+95,10,Sportarmband,49 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Sport Band,49,49.0
+96,11,iPad,Ab 379 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,iPad,379,379.0
+97,12,iPad Pro,Ab 879 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,iPad Pro,879,879.0
+98,13,Apple Pencil (2. Generation),135 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Apple Pencil (2nd generation),135,135.0
+99,14,"24"" iMac²",Ab 1.449 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,24-inch iMac,1.449,1449.0
+100,15,MacBook Air,Ab 1.129 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,MacBook Air,1.129,1129.0
+101,16,Magic Mouse,85 €,DE,Germany,Europe & Central Asia,High income,2022-01-02 21:52:14.030932,Magic Mouse,85,85.0
+103,1,iPhone SE,Fra 3.655 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,iPhone SE,3.655.,3655.0
+104,2,iPhone 12,Fra 5.355 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,iPhone 12,5.355.,5355.0
+106,4,AirPods Pro,2.199 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,AirPods Pro,2.199.,2199.0
+107,5,AirPods(2. generation),1.129 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,AirPods(2nd generation),1.129.,1129.0
+109,7,Apple TV 4K,1.499 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Apple TV 4K,1.499.,1499.0
+110,8,Apple Watch SE,Fra 2.299 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Apple Watch SE,2.299.,2299.0
+111,9,Apple Watch Series 3,Fra 1.699 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Apple Watch Series 3,1.699.,1699.0
+112,10,Sportsrem,369 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Sport Band,369.,369.0
+113,11,iPad,Fra 2.855 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,iPad,2.855.,2855.0
+114,12,iPad Pro,Fra 6.755 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,iPad Pro,6.755.,6755.0
+115,13,Apple Pencil (2. generation),1.099 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Apple Pencil (2nd generation),1.099.,1099.0
+116,14,"24"" iMac²",Fra 11.555 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,24-inch iMac,11.555.,11555.0
+117,15,MacBook Air,Fra 8.755 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,MacBook Air,8.755.,8755.0
+118,16,Magic Mouse,679 kr.,DK,Denmark,Europe & Central Asia,High income,2022-01-02 21:52:15.114080,Magic Mouse,679.,679.0
+120,1,iPhone SE,Desde 489 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,iPhone SE,489,489.0
+121,2,iPhone 12,Desde 689 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,iPhone 12,689,689.0
+123,4,AirPods Pro,279 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,AirPods Pro,279,279.0
+124,5,AirPods(2.ª generación),149 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,AirPods(2nd generation),149,149.0
+126,7,Apple TV 4K,199 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Apple TV 4K,199,199.0
+128,9,Apple Watch SE,Desde 299 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Apple Watch SE,299,299.0
+129,10,Apple Watch Series 3,Desde 219 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Apple Watch Series 3,219,219.0
+130,11,Correa deportiva,49 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Sport Band,49,49.0
+131,12,iPad,Desde 379 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,iPad,379,379.0
+132,13,iPad Pro,Desde 879 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,iPad Pro,879,879.0
+133,14,Apple Pencil (2.ª generación),135 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Apple Pencil (2nd generation),135,135.0
+134,15,iMac de 24 pulgadas²,Desde 1.449 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,24-inch iMac,1.449,1449.0
+135,16,MacBook Air,Desde 1.129 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,MacBook Air,1.129,1129.0
+136,17,Magic Mouse,85 €,ES,Spain,Europe & Central Asia,High income,2022-01-02 21:52:16.456271,Magic Mouse,85,85.0
+138,1,iPhone SE,Alkaen 499 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,iPhone SE,499,499.0
+139,2,iPhone 12,Alkaen 709 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,iPhone 12,709,709.0
+141,4,AirPods Pro,279 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,AirPods Pro,279,279.0
+142,5,AirPods(2. sukupolvi),149 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,AirPods(2nd generation),149,149.0
+144,7,Apple TV 4K,199 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Apple TV 4K,199,199.0
+145,8,Apple Watch SE,Alkaen 309 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Apple Watch SE,309,309.0
+146,9,Apple Watch Series 3,Alkaen 229 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Apple Watch Series 3,229,229.0
+147,10,Urheiluranneke,49 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Sport Band,49,49.0
+148,11,iPad,Alkaen 399 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,iPad,399,399.0
+149,12,iPad Pro,Alkaen 909 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,iPad Pro,909,909.0
+150,13,Apple Pencil (2. sukupolvi),135 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Apple Pencil (2nd generation),135,135.0
+151,14,24 tuuman iMac²,Alkaen 1 499 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,24-inch iMac,1499,1499.0
+152,15,MacBook Air,Alkaen 1 159 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,MacBook Air,1159,1159.0
+153,16,Magic Mouse,85 €,FI,Finland,Europe & Central Asia,High income,2022-01-02 21:52:18.126048,Magic Mouse,85,85.0
+155,1,iPhone SE,À partir de 489 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,iPhone SE,489,489.0
+156,2,iPhone 12,À partir de 689 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,iPhone 12,689,689.0
+158,4,AirPods Pro,279 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,AirPods Pro,279,279.0
+159,5,AirPods(2ᵉ génération),149 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,AirPods(2nd generation),149,149.0
+161,7,Apple TV 4K,199 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Apple TV 4K,199,199.0
+162,8,Apple Watch SE,À partir de 299 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Apple Watch SE,299,299.0
+163,9,Apple Watch Series 3,À partir de 219 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Apple Watch Series 3,219,219.0
+164,10,Bracelet Sport,49 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Sport Band,49,49.0
+165,11,iPad,À partir de 389 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,iPad,389,389.0
+166,12,iPad Pro,À partir de 899 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,iPad Pro,899,899.0
+167,13,Apple Pencil (2ᵉ génération),135 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Apple Pencil (2nd generation),135,135.0
+168,14,iMac 24 pouces²,À partir de 1 449 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,24-inch iMac,1449,1449.0
+169,15,MacBook Air,À partir de 1 129 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,MacBook Air,1129,1129.0
+170,16,Magic Mouse,85 €,FR,France,Europe & Central Asia,High income,2022-01-02 21:52:19.284673,Magic Mouse,85,85.0
+172,1,iPhone SE,Induló ár: 174 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,iPhone SE,174990,174990.0
+173,2,iPhone 12,Induló ár: 249 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,iPhone 12,249990,249990.0
+175,4,AirPods Pro,99 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,AirPods Pro,99990,99990.0
+176,5,AirPods(2. generáció),52 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,AirPods(2nd generation),52990,52990.0
+178,7,Apple TV 4K,71 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Apple TV 4K,71990,71990.0
+179,8,Apple Watch SE,Induló ár: 109 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Apple Watch SE,109990,109990.0
+180,9,Apple Watch Series 3,Induló ár: 77 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Apple Watch Series 3,77990,77990.0
+181,10,Sportszíj,17 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Sport Band,17990,17990.0
+182,11,iPad,Induló ár: 134 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,iPad,134990,134990.0
+183,12,iPad Pro,Induló ár: 324 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,iPad Pro,324990,324990.0
+184,13,Apple Pencil (második generáció),49 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Apple Pencil (2nd generation),49990,49990.0
+185,14,24 hüvelykes iMac²,Induló ár: 539 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,24-inch iMac,539990,539990.0
+186,15,MacBook Air,Induló ár: 429 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,MacBook Air,429990,429990.0
+187,16,Magic Mouse,34 990 Ft,HU,Hungary,Europe & Central Asia,High income,2022-01-02 21:52:20.418188,Magic Mouse,34990,34990.0
+189,1,iPhone SE,From ₹39900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,iPhone SE,39900.00,39900.0
+190,2,iPhone 12,From ₹59900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,iPhone 12,59900.00,59900.0
+192,4,AirPods Pro,₹24900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,AirPods Pro,24900.00,24900.0
+193,5,AirPods(2nd generation),₹12900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,AirPods(2nd generation),12900.00,12900.0
+195,7,Apple TV 4K,From ₹18900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Apple TV 4K,18900.00,18900.0
+197,9,Apple Watch SE,From ₹29900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Apple Watch SE,29900.00,29900.0
+198,10,Apple Watch Series 3,From ₹20900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Apple Watch Series 3,20900.00,20900.0
+199,11,Sport Band,₹3900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Sport Band,3900.00,3900.0
+200,12,iPad,From ₹30900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,iPad,30900.00,30900.0
+201,13,iPad Pro,From ₹71900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,iPad Pro,71900.00,71900.0
+202,14,Apple Pencil (2nd generation),₹10900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Apple Pencil (2nd generation),10900.00,10900.0
+203,15,24-inch iMac²,From ₹119900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,24-inch iMac,119900.00,119900.0
+204,16,MacBook Air,From ₹92900.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,MacBook Air,92900.00,92900.0
+205,17,Magic Mouse,₹7500.00‡,IN,India,South Asia,Lower middle income,2022-01-02 21:52:21.513688,Magic Mouse,7500.00,7500.0
+207,1,iPhone SE,From €499,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,iPhone SE,499,499.0
+208,2,iPhone 12,From €709,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,iPhone 12,709,709.0
+210,4,AirPods Pro,€279,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,AirPods Pro,279,279.0
+211,5,AirPods(2nd generation),€149,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,AirPods(2nd generation),149,149.0
+213,7,Apple TV 4K,€199,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Apple TV 4K,199,199.0
+214,8,Apple Watch SE,From €299,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Apple Watch SE,299,299.0
+215,9,Apple Watch Series 3,From €219,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Apple Watch Series 3,219,219.0
+216,10,Sport Band,€49,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Sport Band,49,49.0
+217,11,iPad,From €399,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,iPad,399,399.0
+218,12,iPad Pro,From €909,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,iPad Pro,909,909.0
+219,13,Apple Pencil (2nd generation),€135,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Apple Pencil (2nd generation),135,135.0
+220,14,24-inch iMac²,"From €1,499",IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,24-inch iMac,"1,499",1499.0
+221,15,MacBook Air,"From €1,129",IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,MacBook Air,"1,129",1129.0
+222,16,Magic Mouse,€85,IE,Ireland,Europe & Central Asia,High income,2022-01-02 21:52:22.791120,Magic Mouse,85,85.0
+224,1,iPhone SE,da € 499,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,iPhone SE,499,499.0
+225,2,iPhone 12,da € 719,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,iPhone 12,719,719.0
+227,4,AirPods Pro,€ 279,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,AirPods Pro,279,279.0
+228,5,AirPods(seconda generazione),€ 149,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,AirPods(2nd generation),149,149.0
+230,7,Apple TV 4K,€ 199,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Apple TV 4K,199,199.0
+232,9,Apple Watch SE,da € 309,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Apple Watch SE,309,309.0
+233,10,Apple Watch Series 3,da € 229,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Apple Watch Series 3,229,229.0
+234,11,Cinturino Sport,€ 49,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Sport Band,49,49.0
+235,12,iPad,da € 389,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,iPad,389,389.0
+236,13,iPad Pro,da € 899,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,iPad Pro,899,899.0
+237,14,Apple Pencil (seconda generazione),€ 135,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Apple Pencil (2nd generation),135,135.0
+238,15,"iMac 24""²",da € 1.499,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,24-inch iMac,1.499,1499.0
+239,16,MacBook Air,da € 1.159,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,MacBook Air,1.159,1159.0
+240,17,Magic Mouse,€ 85,IT,Italy,Europe & Central Asia,High income,2022-01-02 21:52:24.622852,Magic Mouse,85,85.0
+242,1,iPhone SE,"À partir de 472,83 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,iPhone SE,"472,83",472.83
+243,2,iPhone 12,"À partir de 666,22 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,iPhone 12,"666,22",666.22
+245,4,AirPods Pro,"269,78 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,AirPods Pro,"269,78",269.78
+246,5,AirPods(2ᵉ génération),"144,07 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,AirPods(2nd generation),"144,07",144.07
+248,7,Apple TV 4K,"192,42 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Apple TV 4K,"192,42",192.42
+249,8,Apple Watch SE,"À partir de 289,12 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Apple Watch SE,"289,12",289.12
+250,9,Apple Watch Series 3,"À partir de 211,76 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Apple Watch Series 3,"211,76",211.76
+251,10,Bracelet Sport,"47,39 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Sport Band,"47,39",47.39
+252,11,iPad,"À partir de 376,14 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,iPad,"376,14",376.14
+253,12,iPad Pro,"À partir de 869,29 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,iPad Pro,"869,29",869.29
+254,13,Apple Pencil (2ᵉ génération),"130,54 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Apple Pencil (2nd generation),"130,54",130.54
+255,14,iMac 24 pouces²,"À partir de 1 401,10 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,24-inch iMac,"1401,10",1401.1
+256,15,MacBook Air,"À partir de 1 091,68 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,MacBook Air,"1091,68",1091.68
+257,16,Magic Mouse,"82,19 €",LU,Luxembourg,Europe & Central Asia,High income,2022-01-02 21:52:27.538167,Magic Mouse,"82,19",82.19
+259,1,iPhone SE,"Desde $10,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,iPhone SE,"10,999",10999.0
+260,2,iPhone 12,"Desde $14,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,iPhone 12,"14,999",14999.0
+262,4,AirPods Pro,"$5,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,AirPods Pro,"5,999",5999.0
+263,5,AirPods(segunda generación),"$3,299",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,AirPods(2nd generation),"3,299",3299.0
+265,7,Apple TV 4K,"$4,499",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Apple TV 4K,"4,499",4499.0
+267,9,Apple Watch SE,"Desde $7,499",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Apple Watch SE,"7,499",7499.0
+268,10,Apple Watch Series 3,"Desde $4,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Apple Watch Series 3,"4,999",4999.0
+269,11,Correa deportiva,"$1,199",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Sport Band,"1,199",1199.0
+270,12,iPad,"Desde $8,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,iPad,"8,999",8999.0
+271,13,iPad Pro,"Desde $20,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,iPad Pro,"20,999",20999.0
+272,14,Apple Pencil (segunda generación),"$3,299",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Apple Pencil (2nd generation),"3,299",3299.0
+273,15,iMac²,"Desde $33,499",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,24-inch iMac,"33,499",33499.0
+274,16,MacBook Air,"Desde $25,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,MacBook Air,"25,999",25999.0
+275,17,Magic Mouse,"$1,999",MX,Mexico,Latin America & Caribbean,Upper middle income,2022-01-02 21:52:29.026754,Magic Mouse,"1,999",1999.0
+277,1,iPhone SE,"Vanaf € 492,10",NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,iPhone SE,"492,10",492.1
+278,2,iPhone 12,Vanaf € 689,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,iPhone 12,689,689.0
+280,4,AirPods Pro,€ 279,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,AirPods Pro,279,279.0
+281,5,AirPods(2e generatie),€ 149,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,AirPods(2nd generation),149,149.0
+283,7,Apple TV 4K,€ 199,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Apple TV 4K,199,199.0
+284,8,Apple Watch SE,Vanaf € 299,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Apple Watch SE,299,299.0
+285,9,Apple Watch Series 3,Vanaf € 219,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Apple Watch Series 3,219,219.0
+286,10,Sportbandje,€ 49,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Sport Band,49,49.0
+287,11,iPad,Vanaf € 389,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,iPad,389,389.0
+288,12,iPad Pro,Vanaf € 899,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,iPad Pro,899,899.0
+289,13,Apple Pencil (2e generatie),€ 135,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Apple Pencil (2nd generation),135,135.0
+290,14,24-inch iMac²,Vanaf € 1.449,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,24-inch iMac,1.449,1449.0
+291,15,MacBook Air,"Vanaf € 1.129,10",NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,MacBook Air,"1.129,10",1129.1
+292,16,Magic Mouse,€ 85,NL,Netherlands,Europe & Central Asia,High income,2022-01-02 21:52:31.737975,Magic Mouse,85,85.0
+294,1,iPhone SE,Fra kr 4 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,iPhone SE,4990,4990.0
+295,2,iPhone 12,Fra kr 6 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,iPhone 12,6990,6990.0
+297,4,AirPods Pro,kr 2 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,AirPods Pro,2990,2990.0
+298,5,AirPods(2. gen.),kr 1 450,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,AirPods(2nd generation),1450,1450.0
+300,7,Apple TV 4K,kr 1 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Apple TV 4K,1990,1990.0
+301,8,Apple Watch SE,Fra kr 3 290,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Apple Watch SE,3290,3290.0
+302,9,Apple Watch Series 3,Fra kr 2 290,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Apple Watch Series 3,2290,2290.0
+303,10,Sport Band,kr 499,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Sport Band,499,499.0
+304,11,iPad,Fra kr 3 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,iPad,3990,3990.0
+305,12,iPad Pro,Fra kr 8 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,iPad Pro,8990,8990.0
+306,13,Apple Pencil (2. gen.),kr 1 499,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Apple Pencil (2nd generation),1499,1499.0
+307,14,24-tommers iMac²,Fra kr 15 290,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,24-inch iMac,15290,15290.0
+308,15,MacBook Air,Fra kr 11 990,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,MacBook Air,11990,11990.0
+309,16,Magic Mouse,kr 949,NO,Norway,Europe & Central Asia,High income,2022-01-02 21:52:33.104383,Magic Mouse,949,949.0
+311,1,iPhone SE,"From ₱26,490",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,iPhone SE,"26,490",26490.0
+312,2,iPhone 12,"From ₱38,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,iPhone 12,"38,990",38990.0
+314,4,AirPods Pro,"₱14,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,AirPods Pro,"14,990",14990.0
+315,5,AirPods(2nd generation),"₱7,690",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,AirPods(2nd generation),"7,690",7690.0
+317,7,Apple TV 4K,"₱10,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Apple TV 4K,"10,990",10990.0
+318,8,Apple Watch SE,"From ₱15,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Apple Watch SE,"15,990",15990.0
+319,9,Apple Watch Series 3,"From ₱11,490",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Apple Watch Series 3,"11,490",11490.0
+320,10,Sport Band,"₱2,790",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Sport Band,"2,790",2790.0
+321,11,iPad,"From ₱19,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,iPad,"19,990",19990.0
+322,12,iPad Pro,"From ₱45,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,iPad Pro,"45,990",45990.0
+323,13,Apple Pencil (2nd generation),"₱7,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Apple Pencil (2nd generation),"7,990",7990.0
+324,14,24-inch iMac²,"From ₱73,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,24-inch iMac,"73,990",73990.0
+325,15,MacBook Air,"From ₱54,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,MacBook Air,"54,990",54990.0
+326,16,Magic Mouse,"₱3,990",PH,Philippines,East Asia & Pacific,Lower middle income,2022-01-02 21:52:35.094330,Magic Mouse,"3,990",3990.0
+328,1,iPhone SE,Od 2199 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,iPhone SE,2199,2199.0
+329,2,iPhone 12,Od 3149 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,iPhone 12,3149,3149.0
+331,4,AirPods Pro,1249 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,AirPods Pro,1249,1249.0
+332,5,AirPods(2. generacji),649 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,AirPods(2nd generation),649,649.0
+334,7,Apple TV 4K,899 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Apple TV 4K,899,899.0
+335,8,Apple Watch SE,Od 1349 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Apple Watch SE,1349,1349.0
+336,9,Apple Watch Series 3,Od 999 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Apple Watch Series 3,999,999.0
+337,10,Pasek sportowy,199 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Sport Band,199,199.0
+338,11,iPad,Od 1699 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,iPad,1699,1699.0
+339,12,iPad Pro,Od 3899 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,iPad Pro,3899,3899.0
+340,13,Apple Pencil (2. generacji),619 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Apple Pencil (2nd generation),619,619.0
+341,14,iMac 24 cale²,Od 6799 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,24-inch iMac,6799,6799.0
+342,15,MacBook Air,Od 5199 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,MacBook Air,5199,5199.0
+343,16,Magic Mouse,399 zł,PL,Poland,Europe & Central Asia,High income,2022-01-02 21:52:38.882845,Magic Mouse,399,399.0
+345,1,iPhone SE,Desde 499 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,iPhone SE,499,499.0
+346,2,iPhone 12,Desde 709 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,iPhone 12,709,709.0
+348,4,AirPods Pro,279 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,AirPods Pro,279,279.0
+349,5,AirPods(2.ª geração),149 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,AirPods(2nd generation),149,149.0
+351,7,Apple TV 4K,199 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Apple TV 4K,199,199.0
+352,8,Apple Watch SE,Desde 309 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Apple Watch SE,309,309.0
+353,9,Apple Watch Series 3,Desde 229 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Apple Watch Series 3,229,229.0
+354,10,Bracelete desportiva,49 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Sport Band,49,49.0
+355,11,iPad,Desde 399 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,iPad,399,399.0
+356,12,iPad Pro,Desde 909 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,iPad Pro,909,909.0
+357,13,Apple Pencil (2.ª geração),135 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Apple Pencil (2nd generation),135,135.0
+358,14,iMac de 24 polegadas²,Desde 1499 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,24-inch iMac,1499,1499.0
+359,15,MacBook Air,Desde 1159 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,MacBook Air,1159,1159.0
+360,16,Magic Mouse,85 €,PT,Portugal,Europe & Central Asia,High income,2022-01-02 21:52:40.018627,Magic Mouse,85,85.0
+362,1,iPhone SE,От 39 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,iPhone SE,39990.,39990.0
+363,2,iPhone 12,От 54 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,iPhone 12,54990.,54990.0
+365,4,AirPods Pro,24 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,AirPods Pro,24990.,24990.0
+366,5,AirPods(2‑го поколения),12 490 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,AirPods(2nd generation),12490.,12490.0
+368,7,Apple TV 4K,16 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Apple TV 4K,16990.,16990.0
+370,9,Apple Watch SE,От 24 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Apple Watch SE,24990.,24990.0
+371,10,Apple Watch Series 3,От 17 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Apple Watch Series 3,17990.,17990.0
+372,11,Спортивный ремешок,3900 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Sport Band,3900.,3900.0
+373,12,iPad,От 30 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,iPad,30990.,30990.0
+374,13,iPad Pro,От 77 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,iPad Pro,77990.,77990.0
+375,14,Apple Pencil (2‑го поколения),11 490 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Apple Pencil (2nd generation),11490.,11490.0
+376,15,iMac 24 дюйма²,От 129 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,24-inch iMac,129990.,129990.0
+377,16,MacBook Air,От 99 990 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,MacBook Air,99990.,99990.0
+378,17,Мышь Magic Mouse,7900 pyб.,RU,Russia,Europe & Central Asia,Upper middle income,2022-01-02 21:52:41.098636,Magic Mouse,7900.,7900.0
+380,1,iPhone SE,Från 5 075 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,iPhone SE,5075,5075.0
+381,2,iPhone 12,Från 7 395 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,iPhone 12,7395,7395.0
+383,4,AirPods Pro,3 195 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,AirPods Pro,3195,3195.0
+384,5,AirPods(andra generationen),1 595 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,AirPods(2nd generation),1595,1595.0
+386,7,Apple TV 4K,1 995 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Apple TV 4K,1995,1995.0
+387,8,Apple Watch SE,Från 3 195 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Apple Watch SE,3195,3195.0
+388,9,Apple Watch Series 3,Från 2 295 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Apple Watch Series 3,2295,2295.0
+389,10,Sportband,495 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Sport Band,495,495.0
+390,11,iPad,Från 3 995 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,iPad,3995,3995.0
+391,12,iPad Pro,Från 9 495 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,iPad Pro,9495,9495.0
+392,13,Apple Pencil (andra generationen),1 495 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Apple Pencil (2nd generation),1495,1495.0
+393,14,iMac 24 tum²,Från 15 995 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,24-inch iMac,15995,15995.0
+394,15,MacBook Air,Från 12 495 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,MacBook Air,12495,12495.0
+395,16,Magic Mouse,895 kr,SE,Sweden,Europe & Central Asia,High income,2022-01-02 21:52:42.128726,Magic Mouse,895,895.0
+397,1,iPhone SE,"เริ่มต้นที่ ฿14,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,iPhone SE,"14,900",14900.0
+398,2,iPhone 12,"เริ่มต้นที่ ฿21,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,iPhone 12,"21,900",21900.0
+400,4,AirPods Pro,"฿8,992",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,AirPods Pro,"8,992",8992.0
+401,5,AirPods(รุ่นที่ 2),"฿4,990",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,AirPods(2nd generation),"4,990",4990.0
+403,7,Apple TV 4K,"฿6,700",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Apple TV 4K,"6,700",6700.0
+404,8,Apple Watch SE,"เริ่มต้นที่ ฿9,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Apple Watch SE,"9,900",9900.0
+405,9,Apple Watch Series 3,"เริ่มต้นที่ ฿6,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Apple Watch Series 3,"6,900",6900.0
+406,10,สายแบบ Sport Band,"฿1,600",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Sport Band,"1,600",1600.0
+407,11,iPad,"เริ่มต้นที่ ฿11,400",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,iPad,"11,400",11400.0
+408,12,iPad Pro,"เริ่มต้นที่ ฿27,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,iPad Pro,"27,900",27900.0
+409,13,Apple Pencil (รุ่นที่ 2),"฿4,490",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Apple Pencil (2nd generation),"4,490",4490.0
+410,14,iMac รุ่น 24 นิ้ว²,"เริ่มต้นที่ ฿42,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,24-inch iMac,"42,900",42900.0
+411,15,MacBook Air,"เริ่มต้นที่ ฿32,900",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,MacBook Air,"32,900",32900.0
+412,16,Magic Mouse,"฿2,490",TH,Thailand,East Asia & Pacific,Upper middle income,2022-01-02 21:52:44.257695,Magic Mouse,"2,490",2490.0
+414,1,iPhone SE,Başlangıç fiyatı: 7.799 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,iPhone SE,7.799,7799.0
+415,2,iPhone 12,Başlangıç fiyatı: 13.499 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,iPhone 12,13.499,13499.0
+417,4,AirPods Pro,3.799 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,AirPods Pro,3.799,3799.0
+418,5,AirPods(2. nesil),1.899 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,AirPods(2nd generation),1.899,1899.0
+420,7,Apple TV 4K,2.899 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Apple TV 4K,2.899,2899.0
+422,9,Apple Watch SE,Başlangıç fiyatı: 4.199 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Apple Watch SE,4.199,4199.0
+423,10,Apple Watch Series 3,Başlangıç fiyatı: 2.949 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Apple Watch Series 3,2.949,2949.0
+424,11,Spor Kordon,499 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Sport Band,499,499.0
+425,12,iPad,Başlangıç fiyatı: 5.199 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,iPad,5.199,5199.0
+426,13,iPad Pro,Başlangıç fiyatı: 11.999 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,iPad Pro,11.999,11999.0
+427,14,Apple Pencil (2. nesil),1.519 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Apple Pencil (2nd generation),1.519,1519.0
+428,15,24 inç iMac²,Başlangıç fiyatı: 18.999 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,24-inch iMac,18.999,18999.0
+429,16,MacBook Air,Başlangıç fiyatı: 14.999 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,MacBook Air,14.999,14999.0
+430,17,Magic Mouse,1.089 TL,TR,Turkey,Europe & Central Asia,Upper middle income,2022-01-02 21:52:45.332201,Magic Mouse,1.089,1089.0
+432,1,iPhone SE,From $399 or $16.62/mo. per month for 24 mo.**,US,United States,North America,High income,2022-01-02 21:52:47.021744,iPhone SE,399,399.0
+433,2,iPhone 12,From $599 or $24.95/mo. per month for 24 mo.**,US,United States,North America,High income,2022-01-02 21:52:47.021744,iPhone 12,599,599.0
+435,4,AirPods Pro,$249 or $41.50/mo. per month for 6 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,AirPods Pro,249,249.0
+436,5,AirPods(2nd generation),$129 or $21.50/mo. per month for 6 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,AirPods(2nd generation),129,129.0
+438,7,Apple TV 4K,From $179.00 or $29.83/mo. per month for 6 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,Apple TV 4K,179.00,179.0
+439,8,Apple Watch SE,From $279 or $11.62/mo. per month for 24 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,Apple Watch SE,279,279.0
+440,9,Apple Watch Series 3,From $199 or $8.29/mo. per month for 24 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,Apple Watch Series 3,199,199.0
+441,10,Sport Band,$49 or $4.08/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,Sport Band,49,49.0
+442,11,iPad,From $329 or $27.41/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,iPad,329,329.0
+443,12,iPad Pro,From $799 or $66.58/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,iPad Pro,799,799.0
+444,13,Apple Pencil (2nd generation),$129 or $10.75/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,Apple Pencil (2nd generation),129,129.0
+445,14,24-inch iMac²,From $1299 or $108.25/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,24-inch iMac,1299,1299.0
+446,15,MacBook Air,From $999 or $83.25/mo. per month for 12 mo.*,US,United States,North America,High income,2022-01-02 21:52:47.021744,MacBook Air,999,999.0
+447,16,Magic Mouse,$79,US,United States,North America,High income,2022-01-02 21:52:47.021744,Magic Mouse,79,79.0

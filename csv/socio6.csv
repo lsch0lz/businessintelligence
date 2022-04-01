@@ -1,0 +1,190 @@
+,Land,Internet User in %,Mobile phone subscriptions per 100 people
+0,Norway,96.4917,107.174
+1,Ireland,84.5223,103.171
+2,Switzerland,89.6861,129.609
+3,"Hong Kong, China (SAR)",89.4159,259.426
+4,Iceland,99.011,126.137
+5,Germany,89.7391,129.324
+6,Sweden,92.1417,125.12
+7,Australia,86.545,113.579
+8,Netherlands,94.7121,124.27
+9,Denmark,97.6443,125.119
+10,Finland,88.89,132.185
+11,Singapore,88.1656,145.707
+12,United Kingdom,94.8967,117.549
+13,Belgium,88.6551,103.439
+14,New Zealand,90.8111,134.932
+15,Canada,91,89.231
+16,United States,87.2661,123.688
+17,Austria,87.7105,123.535
+18,Israel,81.5812,127.662
+19,Japan,84.5881,139.201
+20,Liechtenstein,98.1,124.648
+21,Slovenia,79.75,118.674
+22,Korea (Republic of),95.8983,129.673
+23,Luxembourg,97.0613,132.165
+24,Spain,86.1072,115.871
+25,France,82.0435,108.408
+26,Czechia,80.6882,119.174
+27,Malta,81.4031,140.204
+28,Estonia,89.357,145.438
+29,Italy,74.3872,137.467
+30,United Arab Emirates,98.45,208.505
+31,Greece,72.9521,115.667
+32,Cyprus,84.4336,100.934
+33,Lithuania,79.7226,164.279
+34,Poland,77.5417,134.748
+35,Andorra,91.5675,107.283
+36,Latvia,83.5772,107.349
+37,Portugal,74.661,115.636
+38,Slovakia,80.6603,132.802
+39,Hungary,76.0744,103.445
+40,Saudi Arabia,93.31,122.573
+41,Bahrain,98.6434,133.341
+42,Chile,82.3275,134.437
+43,Croatia,72.6888,105.583
+44,Qatar,99.6528,141.856
+45,Argentina,74.2949,132.093
+46,Brunei Darussalam,94.6,131.934
+47,Montenegro,71.5173,180.694
+48,Romania,70.6813,116.246
+49,Palau,NaN,134.407
+50,Kazakhstan,78.9039,141.968
+51,Russian Federation,80.8647,157.431
+52,Belarus,79.1299,122.925
+53,Turkey,71.0428,97.3013
+54,Uruguay,68.2797,149.904
+55,Bulgaria,64.782,118.117
+56,Panama,57.8651,130.068
+57,Bahamas,85,98.9508
+58,Barbados,81.7608,122.573
+59,Oman,80.1856,133.366
+60,Georgia,63.9686,133.398
+61,Costa Rica,74.0868,169.931
+62,Malaysia,81.2017,134.526
+63,Kuwait,99.6,178.591
+64,Serbia,73.3607,97.5831
+65,Mauritius,58.5962,151.359
+66,Seychelles,58.7698,184.298
+67,Trinidad and Tobago,77.3261,140.057
+68,Albania,71.847,94.177
+69,Cuba,57.1484,47.3915
+70,Iran (Islamic Republic of),70.0046,108.462
+71,Sri Lanka,34.1133,115.061
+72,Bosnia and Herzegovina,70.1201,104.126
+73,Grenada,59.0717,102.077
+74,Mexico,65.7726,93.0078
+75,Saint Kitts and Nevis,80.7102,147.714
+76,Ukraine,58.8895,122.551
+77,Antigua and Barbuda,76,192.82
+78,Peru,52.5403,123.76
+79,Thailand,56.8175,180.183
+80,Armenia,64.7449,121.259
+81,North Macedonia,79.1678,98.4558
+82,Colombia,62.2599,129.909
+83,Brazil,67.4713,98.8435
+84,China,54.3,114.955
+85,Ecuador,57.2722,92.3233
+86,Saint Lucia,50.8152,101.68
+87,Azerbaijan,79.8,103.921
+88,Dominican Republic,74.8243,84.1021
+89,Moldova (Republic of),76.1245,88.014
+90,Algeria,59.5797,121.932
+91,Lebanon,78.1808,64.4981
+92,Fiji,49.9664,117.831
+93,Dominica,69.6197,105.788
+94,Maldives,63.1857,166.364
+95,Tunisia,64.1908,127.707
+96,Saint Vincent and the Grenadines,22.3943,96.0657
+97,Suriname,48.9452,130.605
+98,Mongolia,23.7143,133.178
+99,Botswana,47,150.006
+100,Jamaica,55.0721,101.027
+101,Jordan,66.7903,87.6215
+102,Paraguay,64.9935,106.953
+103,Tonga,41.2487,105.824
+104,Libya,21.7589,91.4793
+105,Uzbekistan,52.3051,75.925
+106,Bolivia (Plurinational State of),43.8323,100.816
+107,Indonesia,39.7875,119.838
+108,Philippines,60.0548,110.128
+109,Belize,47.0826,85.527
+110,Samoa,33.6109,63.5832
+111,Turkmenistan,21.251,162.861
+112,Venezuela (Bolivarian Republic of),72,71.7661
+113,South Africa,56.1674,153.25
+114,"Palestine, State of",64.4,89.4854
+115,Egypt,46.9243,95.2866
+116,Marshall Islands,38.7012,27.5586
+117,Viet Nam,70.3496,147.195
+118,Gabon,62,138.281
+119,Kyrgyzstan,38,122.57
+120,Morocco,64.8039,124.172
+121,Guyana,37.3258,82.9711
+122,Iraq,49.36,94.883
+123,El Salvador,33.8207,146.913
+124,Tajikistan,21.96,111.528
+125,Cabo Verde,58.1714,112.241
+126,Guatemala,65,118.667
+127,Nicaragua,27.863,115.096
+128,Bhutan,48.1064,93.2616
+129,Namibia,51,112.702
+130,India,34.45,86.9426
+131,Honduras,31.7,79.1503
+132,Bangladesh,15,97.2812
+133,Kiribati,14.5818,46.6132
+134,Sao Tome and Principe,29.9312,77.0561
+135,Micronesia (Federated States of),35.3041,20.7377
+136,Lao People's Democratic Republic,25.5104,51.8634
+137,Eswatini (Kingdom of),47,93.5273
+138,Ghana,39,137.517
+139,Vanuatu,25.7198,79.8627
+140,Timor-Leste,27.4927,103.241
+141,Nepal,34,139.446
+142,Kenya,17.8271,96.3202
+143,Cambodia,40,119.492
+144,Equatorial Guinea,26.24,45.1669
+145,Zambia,14.3,89.157
+146,Myanmar,30.6782,113.844
+147,Angola,14.3391,43.1305
+148,Congo,8.65,95.3405
+149,Zimbabwe,27.0555,89.4049
+150,Solomon Islands,11.9242,73.8338
+151,Syrian Arab Republic,34.2534,98.374
+152,Cameroon,23.203,69.0854
+153,Pakistan,15.51,72.5571
+154,Papua New Guinea,11.2092,47.6177
+155,Comoros,8.47817,59.9411
+156,Mauritania,20.801,103.706
+157,Benin,20,82.3843
+158,Uganda,23.7065,57.2726
+159,Rwanda,21.7676,78.8541
+160,Nigeria,42,88.1842
+161,Côte d'Ivoire,46.8237,134.858
+162,Tanzania (United Republic of),25,77.2414
+163,Madagascar,9.8,40.5703
+164,Lesotho,29,113.831
+165,Djibouti,55.6814,41.1959
+166,Togo,12.3602,77.8861
+167,Senegal,46,104.451
+168,Afghanistan,13.5,59.1208
+169,Haiti,32.4736,57.5289
+170,Sudan,30.8703,72.0079
+171,Gambia,19.8365,139.529
+172,Ethiopia,18.6181,36.2007
+173,Malawi,13.7822,39.0058
+174,Congo (Democratic Republic of the),8.6199,43.3822
+175,Guinea-Bissau,3.93051,78.9889
+176,Liberia,7.98448,56.569
+177,Guinea,18,96.115
+178,Yemen,26.7184,55.175
+179,Eritrea,1.30891,20.364
+180,Mozambique,10,47.7158
+181,Burkina Faso,16,97.9123
+182,Sierra Leone,9,88.4699
+183,Mali,13,115.085
+184,Burundi,2.66075,56.5347
+185,South Sudan,7.97743,33.463
+186,Chad,6.5,45.1237
+187,Central African Republic,4.33925,27.6743
+188,Niger,5.25049,40.6385
